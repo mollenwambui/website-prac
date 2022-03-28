@@ -1,0 +1,28 @@
+nav{
+    align-items: left;
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    text-align:center;
+    display: inline;
+    text-transform:uppercase;
+    padding: 5px;
+    font-size: larger;
+}
+body{
+    background-image: url('/img/31twentyfiveboutique-Instagram-2508-ig-2416981151232998926.jpg');
+    background-repeat: no-repeat;
+    border-image-width: 1600px;
+}
+#about{
+    text-decoration: dashed;
+    color: rgb(8, 1, 7);
+    font-size: x-large;
+}
+h1{
+    
+    font-size: 100px;
+    font-style:italic;
+    color: rgb(33, 76, 219);
+}
